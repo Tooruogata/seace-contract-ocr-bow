@@ -1,0 +1,426 @@
+Sistema Integrado de Gestion Administrativa
+Modulo de Logistica Pagina: 1de4
+
+version 00002" RDEN DE COMPRA - GUiA DE INTERNAMIENTO N°
+N° Exp. SIAF : Ee cee Sia | Meal Ate)
+
+UNIDAD EJECUTORA _: 001 GOBIERNO REGIONAL PASCO-SEDE CENTRAL 2025
+NRO. IDENTIFICACION : 000885
+
+1. DATOS DEL PROVEEDOR 2. CONDICIONES GENERALES
+
+Sefior(es) : LLANTOY ZEVALLOS JOSE ANTONIO N® Cuadro Adquisic: 000235
+Direccién : JR YAULI N° 129 APV Tipo de Proceso: AS
+
+PASCO / PASCO / CHAUPIMARCA CCI: 00228013537455903862 N° Contrato :
+RUC: 10455263749 Teléfono: Fax: Moneda: S/
+
+Concepto: ADQUISICION DE ALIMENTOS (CARNES Y PESCADOS) PARA LA DIRECCION DEL CAR ALDEA INFANTIL SAN NICOLAS DE
+
+a
+
+ALITAS DE POLLO
+BISTECK
+
+BOFE DE RES
+CAMARON
+CANGREJO (AL PESO)
+
+CARNE DE ALPACA
+
+CARNE DE CERDO CON HUESO
+
+CARNE DE CORDERO
+
+CARNE DE GALLINA DOBLE PECHUGA SIN MENUDENCIA
+CARNE DE LOMO PICADO
+
+CARNE DE POLLO FRESCO (PIERNA Y PECHO)
+
+CARNE DE POLLO TROZADO
+
+CARNE DE RES SECA
+
+CARNES DE CUY (CAVIA PORCELLUS)
+
+Precio
+
+Unitario S/ Total S/
+
+17.000000
+34.000000
+25.222421
+50.000000
+15.500000
+24.000000
+27.500000
+29.000000
+28.000000
+32.000000
+28.580000
+28.000000
+70.000000
+60.000000
+
+2,040.00
+4,080.00
+1271.21
+3,000.00
+1,240.00
+12,000.00
+15,125.00
+13,050.00
+4,200.00
+8,000.00
+15,719.00
+11,200.00
+5,600.00
+9,000.00
+
+CHORO 9.000000 1,080.00
+KLG CHULETA DE CERDO 29.000000 6,380.00
+KLG CHULETA DE RES 30.000000 4,320.00
+
+22.000000 2,640.00
+
+HAMBURGUESA DE RES
+
+UNIDAD
+
+Pr ——s—‘ié###AFECTACIONPRESUPUESTAL tt tsi—(‘“‘OCSCSC;*” PRESUPUESTAL
+
+Meta/
+Mnemonica Cadena Funcional FF/Rb| Clasif. Gasto
+
+0058 23.051.0115.0117.3000889.5006337 1-00) 2.2.2 3.199
+
+Van ... S/ 119,945.21
+
+Peres Geer ae
+
+| ;
+Facturar a nombre de : GOBIERNO REGIONAL PASCO-SEDE CENTRAL
+
+Direccion : EDIFICIO ESTATAL N° 01 - SAN JUAN/RAMPA | YANACANCHA - PASCO - PASCO
+
+Agradecemos enviar los bienes a la siguiente direccidn :
+EDIFICIO ESTATAL N° 1 SAN JUAN -C.PA K: / YANACANCHA - PA ee PASCO
+
+a 7 a
+
+—a- D
+an 3 = 2 7? ee —
+7 ; 7 f
+i ala: x F Lf 7 as. “ee
+’ 1 e Tr Pot wee bf, a :
+
+Po. Yosé L. COL . , RESPONSABLE DE
+; 10 ALMACEN
+
+Exonerado : 0.00
+V. Venta : 148,305.08
+LGV. : 26,694.92
+
+175,000.00
+
+RESPONSABDDDEADAUISK
+
+PORTANTE :
+
+dar debe adjunt
+a
+
+- Nos reservamos el derecho de devolver la mercaderia que no esté de acuerdo con las especificaciones técnicas.
+- El Contratista (Proveedor) se obliga a cumplir las obligaciones 4dfé le corresponden, bajo sancion de quedar inhabilitado para contratar con el Estado en caso de incumplimiento
+
+Sistema Integrado de Gestion Administrativa
+Modulo de Logistica Pagina: 2de4
+
+Version 25.01.00.U1-M@NN DEN DE COMPRA - GUA DE INTERNAMIENTO N°
+ems: ( (Dia [Mes [AiO
+
+UNIDAD EJECUTORA__: 001 GOBIERNO REGIONAL PASCO-SEDE CENTRAL 2025
+NRO. IDENTIFICACION : 000885
+
+1. DATOS DEL PROVEEDOR 2. CONDICIONES GENERALES
+
+Sefior(es) : LLANTOY ZEVALLOS JOSE ANTONIO cladae-ie ee: wee hicaire ts
+Direccion : JR YAULI N° 129 APV Tipo de Proceso: AS
+
+PASCO / PASCO / CHAUPIMARCA CCI: 00228013537455903862 N° Contrato :
+RUC: 10455263749 Teléfono: Fax: Moneda: S/
+
+Concepto: ADQUISICION DE ALIMENTOS (CARNES Y PESCADOS) PARA LA DIRECCION DEL CAR ALDEA INFANTIL SAN NICOLAS DE
+
+a
+
+091400010020 HAMBURGUESA DE POLLO
+091400050044 LANGOSTINO
+091400030022 LENGUA DE RES
+091400010061 MENUDENCIA DE POLLO
+091400010010 MILANESA DE POLLO
+091400050046 MIXTURA DE MARISCOS
+091400010040 MOLLEJA DE POLLO
+091400080005 PATA DE CORDERO
+091400010132 PATA DE POLLO
+091400030111 PATA DE RES PRECOCIDO
+
+PAVO EN TROZOS
+
+PAVO ENTERO CONGELADO
+
+PECHUGA DE POLLO SIN ALAS
+
+PESCADO BONITO FRESCO EN FILETE
+PESCADO PINTADILLA (AL PESO)
+
+PESCADO TRUCHA FRESCO EN FILETE
+POTA
+
+VISCERAS DE RES (PANZA, CABEZA, TRIPA)
+
+AFECTACION PRESUPUESTAL
+
+Meta/ | Monto —=zr
+Mneménicc Cadena Funcional FF/Rb| Clasif. Gasto REE LL
+
+Vienen ... 119,945.21
+
+Total S/
+
+Unitario S/
+
+22.000000
+50.000000
+15.000000
+8.207200
+32.000000
+16.000000
+15.000000
+7.000000
+12.000000
+17.000000
+25.000000
+220.000000
+28.000000
+27.000000
+19.000000
+25.000000
+65.000000
+25.000000
+
+2,640.00
+3,000.00
+1,800.00
+328.29
+3,840.00
+2,560.00
+2,625.00
+1,225.00
+2,700.00
+1,530.00
+3,000.00
+4,180.00
+7,560.00
+4,050.00
+4,104.00
+3,000.00
+3,900.00
+3,012.50
+
+Van ... S/ 175,000.00
+
+Exonerado : 0.00
+V. Venta : 148,305.08
+
+IL.G.V. , 26,694.92
+
+175,000.00
+
+Facturar a nombre de . COBIERNO REGIONAL PASCO-SEDE CENTRAL
+
+ROJAS AGUILAR| €
+
+DEBORA HULDA
+heres // | eae
+
+FON Re RE SHON SAB EFBE MB REET UIT RESPONSABLE DE
+
+BES” pIRECTORERE BARU IM AES ALMACEN nT
+
+- Nos reservamos el derecho de devolver la mercaderia que no esté de acuerdo con las especificaciones técnicas.
+- El Contratista (Proveedor) se obliga a cumplir las obligaciones que le corresponden, bajo sancion de quedar inhabilitado para contratar con el Estado en caso de incumplimiento
+
+Sistema Integrado de Gestion Administrativa
+Modulo de Logistica Pagina: 3de4
+
+versron 29.01-0°“ ORDEN DE COMPRA - GUiA DE INTERNAMIENTO N°
+iparpselee | ieee eh (Dia [Mes [Ano
+
+UNIDAD EJECUTORA : 001 GOBIERNO REGIONAL PASCO-SEDE CENTRAL 2025
+NRO. IDENTIFICACION : 000885
+
+1. DATOS DEL PROVEEDOR
+
+Sefor(es) : LLANTOY ZEVALLOS JOSE ANTONIO
+
+Direcci6n: JR YAULI N° 129 APV
+PASCO / PASCO / CHAUPIMARCA CCI: 00228013537455903862
+RUC: 10455263749 Teléfono: Fax :
+
+Concepto : ADQUISICION DE ALIMENTOS (CARNES Y PESCADOS) PARA LA DIRECCION DEL CAR ALDEAINFANTIL SAN NICOLAS DE
+
+ADQUISICION DE ALIMENTOS (CARNES Y PESCADOS) PARA EL C DEA
+NFANTIL SAN NICOLAS DEL GOBIERNO REGIONAL DE PASCO.
+LUGAR DE ENTREGA: CAR ALDEA INFANTIL "SAN NICOLAS" EN
+DIAS CALENDARIOS A PARTIR DEL DIA SIGUIENTE DE LA FIRMA DEL
+CONTRATO O RECEPCION DE LA ORDEN PARA LA PRIMERA ENTREGA,
+DICHO CRONOGRAMA ES REFERENCIAL EN LAS ESPECIFICACIONZS
+TECNIC LO QUE PODRA VARIAR DE ACUERDO A LA NECESIDAD.
+CONFORMIDAD DEL BIEN: DARA CONFORMIDA DEL BIEN BAJO EL INFORME
+DE LAS AREAS DE ADMINISTRACION Y ALMACEN, LUEFO DE LA
+VERIFICACION DE LA ENTREGA AL 100% DE ALIMENTOS EN BUEN
+FORMA DE PAGO: LA ENTIDAD REALIZARA EL PAGO DE LA
+CONTRAPRESTACION PACTADA A FAVOR DEL CONTRATISTA EN PAGOS
+PERIODICOS.
+
+ALIDADES: EN CASO DE RETRASO INJUSTIFICADO DEL CONTRATISTA
+
+Pr —————“‘“iéi####UAFECTACIONPRESUPUESTAL i (ws”:”~<‘—s<Csi‘“‘“‘iti‘CS™SOCCS*”Y Re age eels
+
+2. CONDICIONES GENERALES
+N° Cuadro Adquisic: 000235
+Tipo de Proceso: AS
+
+N° Contrato:
+Moneda: S/
+
+Vienen ... 175,000.00
+
+Unitario S/
+
+tm)
+
+L
+
+1
+
+iw Oo
+
+Van < Sf 175,000.00
+Lae
+
+Le eee | We) dem Bengt | Funcional FF/Rb| Clasif. Gasto }-——Mente__
+
+Facturar a nombre de : COBIERNO REGIONAL PASCO-SEDE CENTRAL
+- EDIFICIO ESTATAL! N° 01 - SAN JUAN PAMPA | YANACANCHA - PASCO - PASCO
+
+Exonerado : 0.00
+V. Venta ; 148,305.08
+LGV. : 26,694.92
+
+175,000.00
+
+[LELABORADO POR] isi Se re CONFORMIDAD
+
+ROJAS AGHILARY AGUILAR
+
+DEBORA HU aa
+
+NOTA IMPORTANTE : :
+- El Proveedor debe adjuntar a su Factura copia de la O/C alendida. rs
+- Esta Orden es nula sin las firmas y sellos reglamentarios q autorizados.
+- Nos reservamos el derecho de devolver la mercaderia queno esté de acuerdo con las especificaciones técnicas.
+
+- El Contratista (Proveedor) se obliga a cumplir las obligacionés que le corresponden, bajo sancion de quedar inhabilitado para contratar con el Estado en caso de incumplimiento
+
+yy
+Uf. : hy ==)
+RESPONSABLE DE
+
+ALMACEN
+
+Sistema Integrado de Gestion Administrativa
+Médulo de Logistica Pagina: 4de4
+
+meson ene“ SRDEN DE COMPRA - GUiA DE INTERNAMIENTO N°
+ecto i (Dia [Mes [Ao]
+
+UNIDAD EJECUTORA : 001 GOBIERNO REGIONAL PASCO-SEDE CENTRAL 2025
+NRO. IDENTIFICACION : 000885
+
+1. DATOS DEL PROVEEDOR
+
+Sefior(es) : LLANTOY ZEVALLOS JOSE ANTONIO
+
+Direccion : JR YAULI N° 129 APV
+PASCO / PASCO / CHAUPIMARCA CCI: 00228013537455903862 N° Contrato :
+RUC: 10455263749 Teléfono: Fax: Moneda: S/ TGs
+
+Concepto: ADQUISICION DE ALIMENTOS (CARNES Y PESCADOS) PARA LA DIRECCION DEL CAR ALDEAINFANTIL SAN NICOLAS DE
+
+2. CONDICIONES GENERALES
+N° Cuadro Adquisic: 000235
+Tipo de Proceso: AS
+
+Vienen ... 175,000.00
+
+. Precio
+=N LA EJECUCION DE LAS PRESTACIONES OBJETO DEL CONTRATO, LA
+ENTIDAD LE APLICA AUTOMATICAMENTE UNA PENALIDAD POR MORA POR
+CADA DIA, CONFORMIDAD CON EL ARTICULO 120 DEL REGLAMENTO DE
+LA LEY DE CONTRATACIONES DEL ESTADO Y ACORDE CON LA NUMERAL
+6.2.2 DE LA DIRECTIVA GENERAL N.° 007-2018-GRP-GGR/DGA.
+
+DE
+
+DE CONTRATO: SERA DE CONFORMIDAD AL ART. 68 DE LA
+REGLAMENTO DE LA LEY DE CONTRATACION
+
+ESOLUCION
+LEY Y 121 DEL
+ESTADO.
+12s a * *(CIENTO SETENTA Y CINCO MIL ¥ 00/100 SOLES) * * * *[* = = *
+
+ty
+wo
+t
+t
+
+AFECTACION PRESUPUESTAL
+
+Meta/
+Mneménicd Cadena Funcional FF/Rb| Clasif. Gasto a
+
+Direccion : EDIFICIO ESTATAL N° 01 - SAN JUAN PANMFy vessels MUNGO cE ON Aetna coasts ata sy RUDE nn ete Me vcesaneerea-odgprerneees
+
+Agradecemos enviar los bienes a la siguiente direccidn :
+EDIFICIO ESTATAL N° 1 SAN JUAN -C.PASCO / }
+
+TOTAL S/ 175,000.00
+
+Exonerado : 0.00
+V. Venta : 148,305.08
+LGV. : 26,694.92
+
+175,000.00
+
+vif CONFORMIDAD
+
+UENTAS X PAGAR
+
+RESPONSABLE DE
+
+ALMACEN
+
+Mi ENIOR.
+
+DIRECCION c DE ABAST GN Ge SOEGREN
+
+NOTA IMPORTANTE :
+- El Proveedor deWe adjuntar A su Factura copia de la O/C/atendida.
+- Esta Orden es nulq sin las firmas y sellos reglamentarios|o autorizados.
+- Nos reservamos el o de devolver la mercaderia que-rio esté de acuerdo con las especificaciones técnicas.
+
+- El Contratista (Proveedor) se obliga a cumplir las obligaciones que le corresponden, bajo sancion de quedar inhabilitado para contratar con el Estado en caso de incumplimiento
+
