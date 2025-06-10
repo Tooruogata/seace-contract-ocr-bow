@@ -35,7 +35,7 @@ This project automates the process of downloading PDF contracts from a public so
 1. Place your input data files (e.g., Excel with contract URLs) in the `data/` directory.
 2. Run the main script:
    ```sh
-   python src/conosce_pdf_bagwords_G.py
+   python src/notebook.ipynb
    ```
 3. The script will:
    - Download missing PDFs to `pdf/`
@@ -46,6 +46,3 @@ This project automates the process of downloading PDF contracts from a public so
 ## Notes
 - Ensure the paths in the script match your folder structure.
 - For large-scale processing, monitor disk space in `temp/` and `text/`.
-
-## License
-This project is licensed under the MIT License.
