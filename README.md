@@ -24,12 +24,11 @@ This project automates the process of downloading PDF contracts from a public so
    cd conosce-pdf-ocr-bow
    ```
 
-2. Install the required Python packages:
+2. Set up the docker image:
    ```sh
-   pip install -r requirements.txt
+   docker build -t contract-ocr:latest -f .devcontainer/Dockerfile .
+   docker run -dit --name contract-ocr-dev -v "$repopath:/workspace" -w /workspace contract-ocr:latest
    ```
-
-3. Make sure you have [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and [Poppler](https://poppler.freedesktop.org/) installed on your system.
 
 ## Usage
 1. Place your input data files (e.g., Excel with contract URLs) in the `data/` directory.
