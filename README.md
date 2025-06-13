@@ -1,4 +1,4 @@
-# Conosce PDF OCR BOW
+# seace-contract-ocr-bow
 
 ## Overview
 This project automates the process of downloading PDF contracts from a public source, converting them to images, extracting text using OCR (Optical Character Recognition), and transforming the extracted text into a structured format for further analysis. It is designed for large-scale document processing and text mining tasks.
