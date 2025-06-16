@@ -20,7 +20,7 @@ This project automates the process of downloading PDF contracts from a public so
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/conosce-pdf-ocr-bow.git
+   git clone https://github.com/Tooruogata/conosce-pdf-ocr-bow.git
    cd conosce-pdf-ocr-bow
    ```
 
